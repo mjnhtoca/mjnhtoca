@@ -16,7 +16,7 @@
         <img src="your-photo.jpg" alt="" class="profile-img">
         <h1>Chào Bạn, Tôi Là [Nguyễn Quang Minh]</h1>
         <p class="intro">Một [học sinh] đam mê sáng tạo và phát triển.</p>
-        <a href="#contact" class="btn">Liên Hệ:FB Nguyễn Minh</a>
+        <a href="#contact" class="https://www.facebook.com/mjnhtoca">Liên Hệ:FB Nguyễn Minh</a>
       </div>
     </div>
   </header>
