@@ -50,8 +50,10 @@
       <h2>Chi Tiết Về Bản Thân</h2>
       <div class="project-cards">
         <div class="project-card">
-          <h3>Website Portfolio</h3>
-          <p>Một website portfolio giúp tôi giới thiệu các dự án và kỹ năng của mình.</p>
+          <h3>Chi tiết</h3>
+          <p>-Chiều cao: 1m73
+            -Cân nặng: 62kg
+            -Ngày tháng năm sinh:06/09/2007.</p>
         </div>
         <div class="project-card">
           <h3>Sở Thích </h3>
